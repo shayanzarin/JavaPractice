@@ -1,3 +1,5 @@
+package thread;
+
 public class Sender {
     public void sendMessage(String text){
         System.out.println("sending "+text);

@@ -1,3 +1,5 @@
+package thread;
+
 public class Demo {
     public static void main(String[] args) {
         Sender sender=new Sender();

@@ -1,4 +1,6 @@
- public class ThreadSend extends  Thread{
+package thread;
+
+public class ThreadSend extends  Thread{
     public String msg;
     Sender sender;
 

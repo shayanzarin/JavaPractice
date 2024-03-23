@@ -1,3 +1,5 @@
+package thread;
+
 public class ThreadsTest extends Thread{
     public static void main(String[] args) {
         ThreadsTest thread=new ThreadsTest();

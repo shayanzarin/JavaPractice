@@ -1,3 +1,5 @@
+package thread;
+
 public class ConcurrencyProblem extends Thread{
     public static int amount=0;
 

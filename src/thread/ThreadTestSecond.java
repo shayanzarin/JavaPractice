@@ -1,3 +1,5 @@
+package thread;
+
 public class ThreadTestSecond implements Runnable{
     public static void main(String[] args) {
         ThreadTestSecond obj=new ThreadTestSecond();
