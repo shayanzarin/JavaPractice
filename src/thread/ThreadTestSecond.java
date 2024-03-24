@@ -9,6 +9,6 @@ public class ThreadTestSecond implements Runnable{
     }
     @Override
     public void run() {
-        System.out.println("test in thread");
+        System.out.println("test in thread ");
     }
 }
